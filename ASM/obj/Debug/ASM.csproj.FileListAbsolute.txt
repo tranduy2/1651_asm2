@@ -1,0 +1,8 @@
+E:\1651\ASM\ASM\ASM\bin\Debug\ASM.exe.config
+E:\1651\ASM\ASM\ASM\bin\Debug\ASM.exe
+E:\1651\ASM\ASM\ASM\bin\Debug\ASM.pdb
+E:\1651\ASM\ASM\ASM\obj\Debug\ASM.csproj.AssemblyReference.cache
+E:\1651\ASM\ASM\ASM\obj\Debug\ASM.csproj.SuggestedBindingRedirects.cache
+E:\1651\ASM\ASM\ASM\obj\Debug\ASM.csproj.CoreCompileInputs.cache
+E:\1651\ASM\ASM\ASM\obj\Debug\ASM.exe
+E:\1651\ASM\ASM\ASM\obj\Debug\ASM.pdb
