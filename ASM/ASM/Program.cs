@@ -30,8 +30,8 @@ namespace ASM
                 Console.WriteLine("4. Add Borrower");
                 Console.WriteLine("5. Remove Borrower");
                 Console.WriteLine("6. Display Borrowers");
-                Console.WriteLine("7. Borrow Item");
-                Console.WriteLine("8. Return Item");
+                Console.WriteLine("7. Borrow Book");
+                Console.WriteLine("8. Return Book");
                 Console.WriteLine("9. Display Borrower Info");
                 Console.WriteLine("0. Exit");
                 Console.WriteLine("====================================");
