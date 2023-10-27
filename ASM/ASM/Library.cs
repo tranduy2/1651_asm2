@@ -25,12 +25,10 @@ namespace ASM
             if (itemToRemove != null)
             {
                 Items.Remove(itemToRemove);
-                Console.WriteLine("Item removed from the library.");
                 return true;
             }
             else
             {
-                Console.WriteLine("Item not found in the library. Unable to remove.");
                 return false;
             }
         }
